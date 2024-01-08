@@ -1,6 +1,6 @@
 # Hacker News Clone App
 
-Deployed website : https://ayush-news-hacker.netlify.app/
+Deployed website : https://bit.ly/Shivanshu_react_app
 
 This project was build in React.
 
